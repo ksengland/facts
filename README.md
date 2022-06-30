@@ -21,7 +21,7 @@ A simple app that generates the current most popular movies from <a href="https:
 ## Instructions:
 1. Fork this repository
 2. Clone your forked repository
-3. Open the repository and drag `standalone.html` onto your browser
+3. Open the repository and drag `index.html` onto your browser
 
 ## Built With:
 - React
