@@ -1,7 +1,7 @@
 # Popular Movies
 
 ## Description:
-A simple app that generates the current most popular movies from <a href="https://api.themoviedb.org/3" target="_blank">The Movie Database API</a>. Created following and modified from <a href="https://blog.devgenius.io/fetch-data-from-a-real-api-react-js-f962da8af24a target="_blank">this guide by Sagar Kudu on DevGenius</a>
+A simple app that generates the current most popular movies from <a href="https://api.themoviedb.org/3" target="_blank">The Movie Database API</a>. Created following and modified from <a href="https://blog.devgenius.io/fetch-data-from-a-real-api-react-js-f962da8af24a" target="_blank">this guide by Sagar Kudu on DevGenius</a>
 
 ## Contents:
 - public
